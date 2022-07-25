@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+// link del proyecto https://www.youtube.com/watch?v=lxYB79ANJM8
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
